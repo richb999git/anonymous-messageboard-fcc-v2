@@ -1,0 +1,66 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  padding: 10px;
+  background-color: #FFE0B2;
+}
+
+.replies {
+  margin-left: 50px;
+}
+
+.reply {
+  border: 1px dotted black;
+  margin: 5px;
+  padding: 5px;
+}
+
+.newReply {
+  margin: 10px 5px 10px 5px;
+}
+
+.thread {
+  border: 2px solid black;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+
+.id {
+  font-size: 10.5px;
+}
+
+#submitNewThread {
+  margin: 50px;
+}
+
+#boardTitle {
+  color: black;
+}
+
+#userstories {
+  margin-left: 5%;
+  margin-top: 1%;
+}
+
+a {
+  color: black;
+}
+
+hr {
+  margin: 20px;
+  background-color: black;
+  color: black;
+  border-color: black;
+}
+
+#testui {
+  margin-left: 5%;
+  color: black;
+}
+
+h2 {
+  text-align: left;
+}
